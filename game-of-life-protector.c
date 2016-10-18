@@ -178,6 +178,5 @@ void main() {
 		processBlocks();
 		score++;
 	}
-	printGrid();
 	printf("Game Over! Score: %d\n", score);
 }
