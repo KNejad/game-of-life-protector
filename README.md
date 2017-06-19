@@ -1,4 +1,7 @@
 # game-of-life-protector
+
+Note: This game has been semi abandoned. I may resume work on it in the future.
+
 A game based on Conway's game of life, where the objective is to keep the 4 blocks in the center alive.<br>
 
 Rules: <br>
